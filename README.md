@@ -18,7 +18,7 @@ Projeto de estudo desenvolvido com Java e Orientações a Objetos, utilizando t�
 
 As seguintes tecnologias foram usadas na construção do projeto:
 
-- [Java]
+- Java
 
 
 # Desenvolvimento
